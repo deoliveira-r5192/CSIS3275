@@ -1,4 +1,0 @@
-- download the code
-- open the project using Eclipse
-- the project folder is 'mySoftEngPrj'
-- to run the application, execute 'myAppLab.java'
